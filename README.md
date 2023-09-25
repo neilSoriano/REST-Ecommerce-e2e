@@ -6,7 +6,7 @@ Tested Ecommerce website API calls like creating a product, adding that product,
 ## Implementing POJO Classes
 Using POJO classes in Java allowed for easier usability and readbility of the program. 
 - LoginRequest
-  - Used for Serailization of request with setting user email and password for authentication upon Login
+  - Used for Serialization of request with setting user email and password for authentication upon Login
 - LoginResponse
   - Utilized Deserizalization of response to parse authentication token and user ID to be used for subsequent API calls
 - Orders
