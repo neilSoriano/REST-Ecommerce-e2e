@@ -1,7 +1,7 @@
 # REST-Ecommerce-e2e
 
 End to End Ecommerce API Test
-Tested Ecommerce website API calls like creating a product, adding that product, submitting an order and deleting the product at the end. API calls were tested in Postman prior for visual representation fo data being parsed into the REST Assured code.
+Tested Ecommerce website API calls like creating a product, adding that product, submitting an order and deleting the product at the end. API calls were tested in Postman prior for visual representation for data being parsed into the REST Assured code. Managed project dependencies using Maven and executed testing with TestNG.
 
 ## Implementing POJO Classes
 Using POJO classes in Java allowed for easier usability and readbility of the program. 
